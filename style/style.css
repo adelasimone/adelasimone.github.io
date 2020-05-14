@@ -1,7 +1,7 @@
 
 body {
     background-color: #272727;
-    color: #d1e8e2;
+    color: pink;
     font-family: 'Fira Code', monospace;
   }
   
@@ -21,7 +21,7 @@ body {
   
   nav i {
     margin-right: 10px;
-    color: #d1e8e2;
+    color: pink;
   }
   
   nav i:hover {
