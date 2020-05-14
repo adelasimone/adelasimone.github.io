@@ -1,0 +1,29 @@
+
+body {
+    background-color: #272727;
+    color: #d1e8e2;
+    font-family: 'Fira Code', monospace;
+  }
+  
+  nav {
+    margin: 20px;
+  }
+  
+  nav h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+  }
+  
+  nav h2 {
+    font-weight: 500;
+    font-size: 18px;
+  }
+  
+  nav i {
+    margin-right: 10px;
+    color: #d1e8e2;
+  }
+  
+  nav i:hover {
+    font-size: large;
+  }
